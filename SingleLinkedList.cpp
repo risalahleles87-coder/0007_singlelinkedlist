@@ -184,4 +184,7 @@ int main()
             default:
                 cout << "\nPilihan selesai\n";
         }
-   
+    } while (ch != '5');
+
+    return 0;
+}
